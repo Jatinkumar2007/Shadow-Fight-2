@@ -7,5 +7,10 @@ when destiny will go closer to wizards they will attack on him
 the wizards will attack through their magical powers like fire and thunder
 wizards should also move when destiny go in their range so that the wizards can attack destiny from a mid range
 the attack of wizard2(thunder wizard)
+yes want to change the coll
 want to make the background move like trex but somewhat slow
+reduce 
 want to show a bar for the health of destiny
+image
+yes top right
+yes mam u can end 

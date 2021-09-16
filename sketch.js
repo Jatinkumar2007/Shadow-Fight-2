@@ -35,17 +35,17 @@ destinyhealth.scale=0.6
   destiny=createSprite(width/8-20,height/2,50,50);
   destiny.addImage("shadow fighter",destinyImage)
   destiny.scale=0.59
-  destiny.debug=false
+  destiny.debug=true
   destiny.setCollider("rectangle",0,0,400,150)
   wizard1=createSprite(width-140,height/2,45,45)
   wizard1.addImage("firewizard",wizard1Image)
   wizard1.scale=0.1
-  wizard1.debug=false
+  wizard1.debug=true
   wizard1.setCollider("rectangle",0,0,2400,1600)
 wizard2=createSprite(width/2 -50,height/2,45,45)
 wizard2.addImage("thunderwizard",wizard2Image)
 wizard2.scale=0.18
-wizard2.debug=false
+wizard2.debug=true
 wizard2.setCollider("rectangle",0,0,1200,900)
 }
 
